@@ -1,4 +1,4 @@
-# startup_namer
+# My Second Flutter App
 
 My Second Flutter application.  This is an extension of `My First Flutter Application`.
 
